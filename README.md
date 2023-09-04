@@ -1,7 +1,6 @@
 # Milk-quality-prediction
 Predicting the quality or grade of milk using KNeighborsClassifier and Cross validation method
 About Dataset
-# Milk Quality Prediction (Classification)
 
 # About dataset
 This dataset is manually collected from observations. It helps us to build machine learning models to predict the quality of milk.
